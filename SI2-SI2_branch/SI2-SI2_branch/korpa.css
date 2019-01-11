@@ -1,0 +1,15 @@
+.container.korpa
+{
+    width: 1000px;
+    margin-top: 200px;
+}
+
+.table
+{
+    border: none;
+}
+
+.noBorder
+{
+    border: none;
+}

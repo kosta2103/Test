@@ -1,0 +1,16 @@
+.container.racun
+{
+    width: 500px;
+    margin-top: 150px;
+    border: 1px solid black;
+}
+
+.h3
+{
+    text-align: center;
+}
+
+td.align-middle,th.align-middle
+{
+    text-align: left;
+}
