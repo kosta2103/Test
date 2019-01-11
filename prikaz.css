@@ -1,0 +1,215 @@
+
+select.form-control:not([size]):not([multiple]) {
+    height: 30px;
+}
+
+
+body {
+    background: #FFF url(img/bg-wall-repeat.jpg);
+    line-height: 1;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:14px;
+}
+
+/* #head {
+    height:40px;
+	width:100%;
+    background:url(img/bg-header.png) repeat-x bottom center;
+    color: #f0ad4e;
+    z-index: 9000;
+    position: fixed;
+} */
+
+.col-sm-7 {
+    text-align: right;
+    width: 58.33333333%;
+}
+
+
+.config {
+    padding: 80px 0 2% 0;
+}
+
+h2 {
+    font-family: 'rationaleregular', sans-serif;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    width: 100%;
+    margin: 0;
+}
+
+.bottom
+{
+    bottom: 0;
+    left:0;
+    width: 100%;
+}
+
+.divider2 {
+    position: relative;
+    margin: -5px 0;
+    height: 20px;
+    background: url(img/divider.png) repeat-x center bottom;
+    z-index: 2000;
+    clear: left;
+}
+
+#foot {
+    margin: 0;
+    padding: 0;
+	text-align: center;
+    height: 50px;
+    line-height: 100px;
+    background: url(img/bg-dl-repeat.jpg) repeat-x top;
+}
+
+.form-horizontal .control-label {
+    padding-top: 7px;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.btn.btn-primary {
+    background: #f0ad4e none repeat scroll 0 0;
+    border-color: #f0ad4e;
+}
+
+
+*[role="form"] {
+    max-width: 100%;
+    padding: 15px;
+ }
+
+
+ .search
+ {
+     text-align: right;
+     padding-right: 20px;
+     padding-top: 5px;
+ }
+
+ .form-control
+ {
+     width: 25%;
+     height: 25px;
+     display: inline-block;
+ }
+
+ul
+{
+    text-align: left;
+}
+
+ .container
+ {
+     max-width: 100%;
+     width: 100%;
+ }
+
+
+.col-sm-2 .container
+{
+    border: 1px solid lightgray;
+    padding-top: 5px;
+}
+
+.btn
+{
+    padding-top: 0;
+    height: 25px;
+}
+
+select.form-control.selectTip
+{   
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 25px !important;
+    width: 100%;
+}
+
+.selectTip
+{
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 25px !important;
+    width: 100%;
+}
+
+.big
+{
+    min-height: 85vh;
+}
+
+table
+{
+    max-width: 100%;
+}
+
+td, th
+{
+    text-align: center;
+    border: 1px solid lightgray;
+    padding: 5px;
+    max-width: 250px;
+    font-size: 12px;
+    white-space: nowrap;
+    overflow: auto;
+}
+
+.img-thumbnail
+{
+    max-width: 100px;
+    max-height: 50px;
+}
+
+.img
+{
+    max-width: 400px;
+    max-height: 300px;
+}
+
+.table_izmeni
+{
+    margin-top: 20px;
+}
+
+.izmeni
+{
+    padding-top: 80px;
+}
+
+.leftPadding
+{
+    padding-left: 0px;
+}
+
+.rightPadding
+{
+    padding-right: 0px;
+}
+
+.col-sm-8
+{
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 120px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.col-sm-4
+{
+    margin-top: 10px;
+}
+
+.container.akcija .form-group #form1
+{
+    margin-top: 200px;
+}
+
+.akcija
+{
+    width: 300px;
+    max-width: 400px;
+}
+
